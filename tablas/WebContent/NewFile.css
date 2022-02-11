@@ -1,0 +1,124 @@
+@charset "UTF-8";
+
+th, td {
+  padding: 8px;
+  border: 1px solid #000;
+  width: 225px;
+  
+}
+
+
+h1{
+	font-family: 'Hanalei', cursive;
+}
+
+.titulo{
+	color:blue;
+	padding: 8px;
+  	 border: 1px solid #000;
+	background-color: yellow;
+}
+
+.titulodos{
+	 caption-side: bottom;
+	 color:blue;
+	padding: 8px;
+  	 border: 1px solid #000;
+	background-color: yellow;
+}
+
+
+.cinco{ 
+	 border-bottom:1px red dotted;
+	 border-bottom-width: 0.25em;
+	 border-left: 1px red dotted;
+	 border-left-width: 0.25em;
+	 
+}
+
+.cuatro{
+	 border-left: 1px red dotted;
+	 border-left-width: 0.25em;
+	
+}
+.tres{
+	 border-left: 1px red dotted;
+	 border-left-width: 0.25em;
+}
+
+.dos{
+	 border-left: 1px red dotted;
+	 border-left-width: 0.25em;
+}
+.uno{
+	 border-left: 1px red dotted;
+	 border-left-width: 0.25em;
+	 border-top:1px red dotted;
+	 border-top-width: 0.25em;
+	 
+}
+.Cinco{
+	 border-bottom:1px red dotted;
+	 border-bottom-width: 0.25em;
+	 border-right: 1px red dotted;
+	 border-right-width: 0.25em;
+	
+}
+
+.Tres{
+	 border-right: 1px red dotted;
+	 border-right-width: 0.25em;
+}
+
+.Dos{
+	 border-right: 1px red dotted;
+	 border-right-width: 0.25em;
+}
+.Cuatro{
+	border-right: 1px red dotted;
+	 border-right-width: 0.25em;
+	
+}
+.Uno{
+	
+	 border-right: 1px red dotted;
+	 border-right-width: 0.25em;
+	 border-top:1px red dotted;
+	 border-top-width: 0.25em;
+	 
+
+}
+
+p{
+	color:blue;
+	background-color: yellow;
+	text-align: center;
+	height: 45px;
+	padding-top:25px;
+	border: solid red;
+	
+	
+	
+	
+}
+
+
+h1{
+	left:120px;
+	position: relative;
+}
+
+
+
+
+
+
+
+.tbody{
+	text-align:center;
+	
+}
+
+.table{
+	text-align:center;
+}
